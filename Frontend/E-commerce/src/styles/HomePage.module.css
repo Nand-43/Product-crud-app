@@ -1,0 +1,11 @@
+.container {
+  max-width: 600px;
+  margin: auto;
+  font-family: Arial;
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+}
